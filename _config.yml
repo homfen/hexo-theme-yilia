@@ -60,6 +60,7 @@ duoshuo: "homfenblog"
 
 smart_menu:
   innerArchive: '所有文章'
+  categorycloud: '分类'
   tagcloud: '标签'
   friends: '友链'
   #aboutme: '关于我'
